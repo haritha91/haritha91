@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 🌱 I do blog. Find my blog writings here : https://naadispeaks.wordpress.com
 
-👯 I'm a Microsoft Most Valuable Professional (MVP) in Artificial Intelligence since 2017. (Yp. It's 5 years in a row!)
+👯 I'm a Microsoft Most Valuable Professional (MVP) in Artificial Intelligence since 2017. (Yp. It's 6 years in a row!)
 
 💬 Ask me about computer vision, machine learning, deep learning, Azure AI stack and intelligent application development.  
 
