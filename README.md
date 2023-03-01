@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about computer vision, machine learning, deep learning, Azure AI stack and intelligent application development.  
 
-📫 Reach me through : http://haritha.me 
+📫 Reach me through : https://www.haritha.me 
 
 😄 Pronouns : he/him/his
 
