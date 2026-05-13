@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 👯 I served as Microsoft's Most Valuable Professional (MVP) in Artificial Intelligence since 2017. (Yp. It was eight years in a row!)
 
-💬 Ask me about computer vision, machine learning, deep learning, Azure AI stack and intelligent application development.  
+💬 Let's talk about computer vision, deep learning, responsible AI and anything related to technology!  
 
 📫 Reach me through: https://www.haritha.me 
 
